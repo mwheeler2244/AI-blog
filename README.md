@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Blog
 
-## Getting Started
+A modern, responsive blog website built with Next.js and Tailwind CSS, focusing on artificial intelligence and machine learning content.
 
-First, run the development server:
+![AI Blog Screenshot](public/images/screenshot.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Features
+
+- 🎨 Modern and responsive design
+- 📱 Mobile-friendly interface
+- 🚀 Built with Next.js 14
+- 💅 Styled with Tailwind CSS
+- 📝 Featured article section
+- 📚 Blog post grid layout
+- 📧 Newsletter subscription form
+- 🔗 Social media integration
+- 🌙 Dark mode optimized
+
+## Tech Stack
+
+- [Next.js](https://nextjs.org/) - React framework for production
+- [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Lucide Icons](https://lucide.dev/) - Beautiful and consistent icons
+- [Google Fonts](https://fonts.google.com/) - Custom typography
+
+
+## Project Structure
+
+```
+ai-blog/
+├── app/
+│   ├── components/     # React components
+│   ├── data/          # Data files
+│   ├── types/         # TypeScript types
+│   └── page.tsx       # Main page component
+├── public/            # Static assets
+└── ...config files
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Components
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `FeaturedArticle` - Hero section with featured blog post
+- `BlogPostCard` - Individual blog post card component
+- `SubscribeForm` - Newsletter subscription form
+- `Footer` - Site footer with navigation and social links
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Contributing
 
-## Learn More
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-To learn more about Next.js, take a look at the following resources:
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Deploy on Vercel
+## Acknowledgments
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Unsplash](https://unsplash.com/) for the beautiful images
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Contact
+
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+
+Project Link: [https://github.com/yourusername/ai-blog](https://github.com/yourusername/ai-blog)
