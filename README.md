@@ -4,6 +4,10 @@ A modern, responsive blog website built with Next.js and Tailwind CSS, focusing 
 
 ![AI Blog Screenshot](public/images/screenshot.png)
 
+
+## Live Demo
+Check out the live demo: [AI Blog](https://ai-blog-eight-phi.vercel.app/)
+
 ## Features
 
 - 🎨 Modern and responsive design
