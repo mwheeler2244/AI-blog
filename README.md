@@ -28,15 +28,5 @@ Check out the live demo: [AI Blog](https://ai-blog-eight-phi.vercel.app/)
 - [Lucide Icons](https://lucide.dev/) - Beautiful and consistent icons
 - [Google Fonts](https://fonts.google.com/) - Custom typography
 
-## Deployment
-
-This project is configured for deployment on Vercel. Follow these steps to deploy:
-
-1. Push your code to a GitHub repository
-2. Go to [Vercel](https://vercel.com) and sign in with your GitHub account
-3. Click "New Project"
-4. Import your GitHub repository
-5. Vercel will automatically detect that it's a Next.js project and configure the build settings
-6. Click "Deploy"
 
 
