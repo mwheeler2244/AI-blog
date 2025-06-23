@@ -17,8 +17,6 @@ Check out the live demo: [AI Blog](https://ai-blog-eight-phi.vercel.app/)
 - 📝 Featured article section
 - 📚 Blog post grid layout
 - 📧 Newsletter subscription form
-- 🔗 Social media integration
-- 🌙 Dark mode optimized
 
 ## Tech Stack
 
